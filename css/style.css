@@ -169,7 +169,11 @@ body.section-show .close-btn{
 #wrapper{
 	overflow-x:hidden;
 }
-.front-section{background: url("https://img.xatblog.net/image/MjC9Mzo1I.gif") no-repeat center center fixed;}        
+
+.front-section
+{background-image: url("https://img.xatblog.net/image/MjC9Mzo1I.gif");
+background-size: cover;}  
+
 .section{
 	position:fixed;
 	left:0;
