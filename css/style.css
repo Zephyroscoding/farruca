@@ -10,7 +10,7 @@
 	
 	01- General CSS
 	02- Preloader
-	03- Front Section
+	03- Front Section  
 	04- About Section
 	05- Resume Section
 	06- Services Section
@@ -651,6 +651,8 @@ body.section-show .transition-mask:before{
 =======================================================================*/
 .about-section{
 	padding-top:0;
+	display: flex;
+	flex-wrap: wrap;
 }
 .about-icons{
 	padding-top:110px;
