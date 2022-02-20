@@ -650,6 +650,25 @@ body.section-show .transition-mask:before{
 	About Section
 =======================================================================*/
 .about-section{
+	text-align: center;
+	padding-top:0;
+	isplay: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+
+}
+
+.about-section{
 	padding-top:0;
 	display: flex;
 	flex-wrap: wrap;
