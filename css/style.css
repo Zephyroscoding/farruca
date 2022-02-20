@@ -1157,7 +1157,7 @@ body.section-show .transition-mask:before{
 .pricing-table{
 	max-width:300px;
 	margin:auto;
-	background:#F4F4F4;
+	background:#ffffff;
 	padding:35px 0;
 	-webkit-transition:all .3s ease;
 	-moz-transition:all .3s ease;
