@@ -665,7 +665,7 @@ body.section-show .transition-mask:before{
 	background-size: contain;
         background-repeat: repeat-y;
 	text-align: center;
-	
+	color:#FFFFFF;
 	padding-top:0;
 	isplay: -webkit-box;
   display: -webkit-flex;
