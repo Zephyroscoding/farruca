@@ -661,11 +661,11 @@ body.section-show .transition-mask:before{
 	About Section
 =======================================================================*/
 .about-section{
-	background-image: url("https://img.xatblog.net/image/70qyllZ6FxR.jpg");
+	background-image: url("https://img.xatblog.net/image/FlzCKTVCb4.jpg");
 	background-size: cover;
         background-repeat: no-repeat;
 	text-align: center;
-	color:#FFFFFF;
+	color:#FF0000;
 	font-size: 35px;
 	padding-top:0;
 	isplay: -webkit-box;
