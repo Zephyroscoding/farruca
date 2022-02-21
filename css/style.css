@@ -662,7 +662,7 @@ body.section-show .transition-mask:before{
 =======================================================================*/
 .about-section{
 	background-image: url("https://img.xatblog.net/image/70qyllZ6FxR.jpg");
-	background-size: contain;
+	background-size: fill;
         background-repeat: repeat-y;
 	text-align: center;
 	color:#FFFFFF;
